@@ -1,0 +1,144 @@
+/* This file should be in a folder called `css` */
+
+body {
+  font-family: 'Fira Mono', sans-serif;
+  margin-top: 40px;
+  text-align: center;
+  color: white;
+  background-color: #042950;
+  max-width: 90%;
+}
+
+#ist {
+  font-weight: 700;
+  font-size: 10vh;
+}
+
+#vtime {
+  font-weight: 700;
+  font-size: 10vh;
+}
+
+#time-row, #sunrise, #sunset
+{
+    padding-left: 0px;
+    font-size: 1.8vw;
+}
+
+#desc{
+    margin-top: 0px;
+    margin-bottom: 5px;
+    font-size: 2vw;
+    margin-block-start: -1vh;
+}
+
+h1 {
+    margin-block-end: 10px;
+    margin-block-start: 10px;
+}
+
+h2 {
+    margin-block-end: 10px;
+    margin-block-start: -2vh;
+}
+
+#place {
+    font-size: 1.5vw;
+    margin-block-end: 10px;
+    margin-block-start: -5px;
+}
+
+#date {
+    font-size: 3vw;
+}
+
+/*td {
+    padding-left: 10px;
+    padding-right: 20px;
+    font-size: 2vw;
+}
+
+table
+{
+    margin-top: 30px;
+}
+*/
+table {
+/*  border: 1px solid #ccc;*/
+  border-collapse: collapse;
+  margin: 5px;
+  width: 100%;
+  table-layout: fixed;
+  margin-block-start: 4vh;
+}
+
+table caption {
+  font-size: 2vw;
+  margin: .5em 0 .75em;
+}
+
+table tr {
+/*  border: 1px solid #ddd;*/
+  font-size: 2vw;
+}
+
+table th,
+table td {
+  font-size: 2vw;
+  text-align: center;
+}
+
+table th {
+  font-size: .85em;
+  text-transform: uppercase;
+}
+
+@media screen and (max-width: 600px) {
+  table {
+    border: 0;
+  }
+
+  table caption {
+    font-size: 1.3em;
+  }
+  
+  table thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+  
+  table tr {
+    border-bottom: 1px dotted #ddd;
+    display: block;
+    font-size: 3vw;
+    margin-bottom: .625em;
+  }
+  
+  table td {
+    border-bottom: 1px dotted #ddd;
+    display: block;
+    font-size: 3vw;
+    text-align: right;
+  }
+  
+  table td::before {
+    /*
+    * aria-label has no advantage, it won't be read inside a table
+    content: attr(aria-label);
+    */
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  table td:last-child {
+    border-bottom: 0;
+  }
+}

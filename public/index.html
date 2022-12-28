@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+  <title>काल-विधानम्</title>
+  <link href="https://fonts.googleapis.com/css?family=Fira+Mono&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<!-- <body onload="startTime()"> -->
+<body onload="getLocation()">
+  <script src="js/suncalc.js"></script>
+  <script src="js/app.js"></script>
+<!--   <button onclick="">Get Kaalas</button>
+  <br/>
+  <br/>
+  <br/>
+ -->
+
+  <h2 id="date"></h2>
+  <h3 id="place"></h3>
+
+  <h1 id="ist"></h1>
+  <h2 id="desc">IST</h2>
+  <h1 id="vtime"></h1>
+  <h2 id="desc">घटिकाः (धर्मशास्त्ररीत्या)<br/>
+<small style="font-size: 0.75vw;">00:00 उदयः &nbsp;&nbsp; 15:00 अहर्मध्यम् &nbsp;&nbsp; 30:00 अस्तमयः &nbsp;&nbsp; 45:00 रात्रिमध्यम् &nbsp;&nbsp; 60:00 श्वः उदयः</small>
+</h2>
+
+<center>
+      <b>🌣⯅</b><b id="sunrise"></b>&nbsp;&nbsp;<b>🌣⯆</b><b id="sunset"></b>
+<table>
+  <tbody>
+    <thead>
+      <th scope="col">ब्राह्म-मुहूर्तः</th>
+      <th>प्रातः सन्ध्या</th>
+      <th>माध्याह्निक-सन्ध्या</th>
+      <th>सायं सन्ध्या</th>
+    </thead>      
+    <tr>
+      <td scope="row" data-label="ब्राह्म-मुहूर्तः" id="braahma">58-0—60-0</td>
+      <td data-label="प्रातः सन्ध्या" id="prAtaH sandhyA">15:30—16:45</td>
+      <td data-label="माध्याह्निक-सन्ध्या" id="mAdhyAhnika sandhyA">15:30—16:45</td>
+      <td data-label="सायं सन्ध्या" id="sAyaM sandhyA">15:30—16:45</td>
+    </tr>      
+  </tbody>
+</table>
+<table>
+  <tbody>
+    <thead>
+      <tr>
+        <th scope="col">प्रातः</th>
+        <th>सङ्गवः</th>
+        <th>मध्याह्नः</th>
+        <th>अपराह्णः</th>
+        <th>सायाह्नः</th>
+      </tr>
+    </thead>
+    <tr>
+      <td scope="row" data-label="प्रातः" id="prAtaH">0-0—6-0</td>
+      <td data-label="सङ्गवः" id="saGgava">6-0—12-0</td>
+      <td data-label="मध्याह्नः" id="madhyAhna">12-0—18-0</td>
+      <td data-label="अपराह्णः" id="aparAhna">15:30—16:45</td>
+      <td data-label="सायाह्नः" id="sAyAhna">15:30—16:45</td>
+    </tr>
+  </tbody>
+</table>     
+<table>
+  <tbody>
+    <thead>
+      <th scope="col">रात्रौ यामः १</th>
+      <th>शयनारम्भः</th>
+      <th>दिनान्तः</th>
+    </thead>
+    <tr>
+      <td scope="row" data-label="रात्रौ यामः १" id="rAtri yAma 1">15:30—16:45</td>
+      <td data-label="शयनारम्भः" id="sayana">15:30—16:45</td>
+      <td data-label="दिनान्तः" id="dinAnta">15:30</td>
+    </tr>      
+  </tbody>
+</table>
+<table>
+  <tbody>
+    <thead>
+      <th scope="col">राहुकालः</th>
+      <th>यमघण्टः</th>
+      <th>गुलिककालः</th>
+      <th>यमघण्टः (रात्रौ)</th>
+      <th>गुलिककालः (रात्रौ)</th>
+    </thead>
+    <tr>
+      <td scope="row" data-label="राहुकालः" id="rahu">15:30—16:45</td>
+      <td data-label="यमघण्टः" id="yama">15:30—16:45</td>
+      <td data-label="गुलिककालः" id="gulika">15:30—16:45</td>
+      <td data-label="यमघण्टः (रात्रौ)" id="yama_night">15:30—16:45</td>
+      <td data-label="गुलिककालः (रात्रौ)" id="gulika_night">15:30—16:45</td>
+    </tr>      
+  </tbody>
+</table>
+<table>
+  <tbody>
+  </tbody>
+</table>
+</center>
+
+</body>
+</html>
