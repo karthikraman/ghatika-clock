@@ -165,6 +165,9 @@ function showPosition(position) {
 
   document.getElementById('sunrise').innerHTML = trimSeconds(get_hms_str(times["sunrise"]));
   document.getElementById('sunset').innerHTML = trimSeconds(get_hms_str(times["sunset"]));
+  document.getElementById('midday').innerHTML = getKaalaTimings(t_rise, t_set, 1, 2, 2).substring(0,5);
+  document.getElementById('midnight').innerHTML = getKaalaTimings(t_set, t_rise_tmrw + 24, 1, 2, 2).substring(0,5);
+  document.getElementById('sunrise_tmrw').innerHTML = getKaalaTimings(t_rise_tmrw, t_rise_tmrw, 1, 2, 2).substring(0,5);
 
   sun_data = {
     "t_set_yday": t_set_yday,
