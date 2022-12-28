@@ -19,10 +19,15 @@ body {
   font-size: 10vh;
 }
 
-#time-row, #sunrise, #sunset
+#b {
+  font-size: 1vh;
+}
+
+#time-row, #sunrise, #sunset, #midday, #midnight, #sunrise_tmrw
 {
     padding-left: 0px;
     font-size: 1.8vw;
+    color: yellow;
 }
 
 #desc{
