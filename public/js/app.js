@@ -136,6 +136,8 @@ function showPosition(position) {
 
   var t_rise_tmrw = get_float_h(SunCalc.getTimes(tmrw, latitude, longitude)['sunrise']);
 
+  document.getElementById('prabodha').innerHTML = getKaalaTimings(t_set_yday-24, t_rise, 24, 30, 30).substring(0, 5) + '–';
+  document.getElementById('ushah').innerHTML = getKaalaTimings(t_set_yday-24, t_rise, 25, 30, 30).substring(0, 5) + '–';
   document.getElementById('braahma').innerHTML = getKaalaTimings(t_set_yday-24, t_rise, 13, 15, 15);
   document.getElementById('prAtaH sandhyA').innerHTML = getKaalaTimings(t_set_yday-24, t_rise, 14, 15, 15).substring(0, 5) + '–' +  getKaalaTimings(t_rise, t_set, 4, 5, 15).substring(0,5);
   document.getElementById('mAdhyAhnika sandhyA').innerHTML = getKaalaTimings(t_rise, t_set, 5, 13, 15);
