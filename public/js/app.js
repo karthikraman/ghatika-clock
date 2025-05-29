@@ -9,6 +9,7 @@ async function parseUrlAndInit() {
 
   if (pathParts.length >= 1) {
     city = decodeURIComponent(pathParts[0].toLowerCase());
+    date = new Date();
   }
   if (pathParts.length === 2) {
     date = new Date(pathParts[1]);
