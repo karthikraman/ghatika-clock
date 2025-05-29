@@ -1,0 +1,2737 @@
+{
+  "amarnath": {
+    "lat": 40.3801706,
+    "lon": 84.3374927,
+    "timezone": "Asia/Calcutta"
+  },
+  "bengaluru": {
+    "lat": 12.97,
+    "lon": 77.56,
+    "timezone": "Asia/Calcutta"
+  },
+  "bangalore": {
+    "lat": 12.97,
+    "lon": 77.56,
+    "timezone": "Asia/Calcutta"
+  },
+  "hyderabad": {
+    "lat": 17.3615104,
+    "lon": 78.474743,
+    "timezone": "Asia/Calcutta"
+  },
+  "bhagyanagaram": {
+    "lat": 17.3615104,
+    "lon": 78.474743,
+    "timezone": "Asia/Calcutta"
+  },
+  "brahmadesha": {
+    "lat": 8.7324832,
+    "lon": 77.4427299,
+    "timezone": "Asia/Calcutta"
+  },
+  "chennai": {
+    "lat": 13.09,
+    "lon": 80.27,
+    "timezone": "Asia/Calcutta"
+  },
+  "coimbatore": {
+    "lat": 10.966657792836907,
+    "lon": 76.90954363309359,
+    "timezone": "Asia/Calcutta"
+  },
+  "delhi": {
+    "lat": 28.5676528,
+    "lon": 77.1636295,
+    "timezone": "Asia/Calcutta"
+  },
+  "dwaraka": {
+    "lat": 22.2467347,
+    "lon": 68.9606388,
+    "timezone": "Asia/Calcutta"
+  },
+  "hampi": {
+    "lat": 15.335,
+    "lon": 76.46,
+    "timezone": "Asia/Calcutta"
+  },
+  "kamakhya": {
+    "lat": 26.1664187,
+    "lon": 91.7029625,
+    "timezone": "Asia/Calcutta"
+  },
+  "kanchipuram": {
+    "lat": 12.8438285,
+    "lon": 79.6994636,
+    "timezone": "Asia/Calcutta"
+  },
+  "kanyakumari": {
+    "lat": 8.0805248,
+    "lon": 77.547384,
+    "timezone": "Asia/Calcutta"
+  },
+  "kashi": {
+    "lat": 25.3109634,
+    "lon": 83.0107418,
+    "timezone": "Asia/Calcutta"
+  },
+  "varanasi": {
+    "lat": 25.3109634,
+    "lon": 83.0107418,
+    "timezone": "Asia/Calcutta"
+  },
+  "madurai": {
+    "lat": 9.919525,
+    "lon": 78.1187598,
+    "timezone": "Asia/Calcutta"
+  },
+  "mumbai": {
+    "lat": 18.96,
+    "lon": 72.82,
+    "timezone": "Asia/Calcutta"
+  },
+  "mysore": {
+    "lat": 12.2958,
+    "lon": 76.6394,
+    "timezone": "Asia/Calcutta"
+  },
+  "nerur": {
+    "lat": 10.9967,
+    "lon": 78.156,
+    "timezone": "Asia/Calcutta"
+  },
+  "prayag": {
+    "lat": 25.4339768,
+    "lon": 81.8784979,
+    "timezone": "Asia/Calcutta"
+  },
+  "prayagraj": {
+    "lat": 25.4339768,
+    "lon": 81.8784979,
+    "timezone": "Asia/Calcutta"
+  },
+  "pune": {
+    "lat": 18.529999999999998,
+    "lon": 73.83999999999999,
+    "timezone": "Asia/Calcutta"
+  },
+  "vijayawada": {
+    "lat": 16.5128023,
+    "lon": 80.6039116,
+    "timezone": "Asia/Calcutta"
+  },
+  "sahakara nagar, bengaluru": {
+    "lat": 13.063583333333334,
+    "lon": 77.57936111111111,
+    "timezone": "Asia/Calcutta"
+  },
+  "thanjavur": {
+    "lat": 10.783055555555556,
+    "lon": 79.13083333333333,
+    "timezone": "Asia/Calcutta"
+  },
+  "tirupati": {
+    "lat": 13.646939287359896,
+    "lon": 79.42132439583985,
+    "timezone": "Asia/Calcutta"
+  },
+  "ujjain": {
+    "lat": 23.1765,
+    "lon": 75.7885,
+    "timezone": "Asia/Calcutta"
+  },
+  "abudhabi": {
+    "lat": 24.479999999999997,
+    "lon": 54.37,
+    "timezone": "Asia/Dubai"
+  },
+  "athens": {
+    "lat": 37.9908372,
+    "lon": 23.7383394,
+    "timezone": "Europe/Athens"
+  },
+  "berlin": {
+    "lat": 52.519999999999996,
+    "lon": 13.38,
+    "timezone": "Europe/Berlin"
+  },
+  "cupertino": {
+    "lat": 37.323055555555555,
+    "lon": -122.03222222222222,
+    "timezone": "America/Los_Angeles"
+  },
+  "sacramento": {
+    "lat": 38.5617339,
+    "lon": -121.46143,
+    "timezone": "America/Los_Angeles"
+  },
+  "flemington": {
+    "lat": 40.5084323,
+    "lon": -74.8599965,
+    "timezone": "America/New_York"
+  },
+  "newyork": {
+    "lat": 40.6217543,
+    "lon": -74.6111683,
+    "timezone": "America/New_York"
+  },
+  "washingtondc": {
+    "lat": 38.8937545,
+    "lon": -77.014576,
+    "timezone": "America/New_York"
+  },
+  "charlotte": {
+    "lat": 35.227085,
+    "lon": -80.843124,
+    "timezone": "America/New_York"
+  },
+  "denver": {
+    "lat": 39.7643389,
+    "lon": -104.8551114,
+    "timezone": "America/Denver"
+  },
+  "losangeles": {
+    "lat": 34.020479,
+    "lon": -118.4117325,
+    "timezone": "America/Los_Angeles"
+  },
+  "aurora": {
+    "lat": 41.7509724,
+    "lon": -88.3067189,
+    "timezone": "America/Chicago"
+  },
+  "chicago": {
+    "lat": 41.8337329,
+    "lon": -87.7319639,
+    "timezone": "America/Chicago"
+  },
+  "dallas": {
+    "lat": 32.8206645,
+    "lon": -96.7315525,
+    "timezone": "America/Chicago"
+  },
+  "dubai": {
+    "lat": 25.27,
+    "lon": 55.330000000000005,
+    "timezone": "Asia/Dubai"
+  },
+  "dusseldorf": {
+    "lat": 51.24,
+    "lon": 6.79,
+    "timezone": "Europe/Berlin"
+  },
+  "frankfurt": {
+    "lat": 50.12,
+    "lon": 8.68,
+    "timezone": "Europe/Berlin"
+  },
+  "heidelberg": {
+    "lat": 49.41916666666666,
+    "lon": 8.668055555555554,
+    "timezone": "Europe/Berlin"
+  },
+  "london": {
+    "lat": 51.5,
+    "lon": 0.11666666666666667,
+    "timezone": "Europe/London"
+  },
+  "leiden": {
+    "lat": 52.1570166,
+    "lon": 4.4855084,
+    "timezone": "Europe/Amsterdam"
+  },
+  "harrow": {
+    "lat": 51.5767963,
+    "lon": -0.30448,
+    "timezone": "Europe/London"
+  },
+  "muscat": {
+    "lat": 23.610000000000003,
+    "lon": 58.54,
+    "timezone": "Asia/Muscat"
+  },
+  "orinda": {
+    "lat": 37.86055555555556,
+    "lon": -122.18305555555555,
+    "timezone": "America/Los_Angeles"
+  },
+  "paloalto": {
+    "lat": 37.39972222222222,
+    "lon": -122.14277777777778,
+    "timezone": "America/Los_Angeles"
+  },
+  "robbinsville": {
+    "lat": 40.222877,
+    "lon": -74.6630863,
+    "timezone": "America/New_York"
+  },
+  "cary": {
+    "lat": 35.7703553,
+    "lon": -78.9703931,
+    "timezone": "America/New_York"
+  },
+  "paris": {
+    "lat": 48.86,
+    "lon": 2.3400000000000003,
+    "timezone": "Europe/Paris"
+  },
+  "prague": {
+    "lat": 50.080000000000005,
+    "lon": 14.43,
+    "timezone": "Europe/Bratislava"
+  },
+  "tampa": {
+    "lat": 27.97083333333333,
+    "lon": -82.46472222222222,
+    "timezone": "US/Eastern"
+  },
+  "zurich": {
+    "lat": 47.38,
+    "lon": 8.54,
+    "timezone": "Europe/Zurich"
+  },
+  "abohar": {
+    "lat": 30.12,
+    "lon": 74.29,
+    "timezone": "Asia/Calcutta"
+  },
+  "abu": {
+    "lat": 24.59,
+    "lon": 72.71,
+    "timezone": "Asia/Calcutta"
+  },
+  "addanki": {
+    "lat": 15.81,
+    "lon": 79.97,
+    "timezone": "Asia/Calcutta"
+  },
+  "adilabad": {
+    "lat": 19.67,
+    "lon": 78.53,
+    "timezone": "Asia/Calcutta"
+  },
+  "adirampattinam": {
+    "lat": 10.3376115,
+    "lon": 79.3645408,
+    "timezone": "Asia/Calcutta"
+  },
+  "adoni": {
+    "lat": 15.63,
+    "lon": 77.28,
+    "timezone": "Asia/Calcutta"
+  },
+  "agartala": {
+    "lat": 23.83,
+    "lon": 91.27,
+    "timezone": "Asia/Calcutta"
+  },
+  "agra": {
+    "lat": 27.18,
+    "lon": 78.02,
+    "timezone": "Asia/Calcutta"
+  },
+  "ahmadnagar": {
+    "lat": 19.08,
+    "lon": 74.73,
+    "timezone": "Asia/Calcutta"
+  },
+  "ahmedabad": {
+    "lat": 23.03,
+    "lon": 72.58,
+    "timezone": "Asia/Calcutta"
+  },
+  "aizawl": {
+    "lat": 23.71,
+    "lon": 92.72,
+    "timezone": "Asia/Calcutta"
+  },
+  "ajmer": {
+    "lat": 26.47,
+    "lon": 74.64,
+    "timezone": "Asia/Calcutta"
+  },
+  "akola": {
+    "lat": 20.73,
+    "lon": 77.0,
+    "timezone": "Asia/Calcutta"
+  },
+  "aligarh": {
+    "lat": 27.88,
+    "lon": 78.08,
+    "timezone": "Asia/Calcutta"
+  },
+  "alleppey": {
+    "lat": 9.5,
+    "lon": 76.37,
+    "timezone": "Asia/Calcutta"
+  },
+  "alwar": {
+    "lat": 27.57,
+    "lon": 76.62,
+    "timezone": "Asia/Calcutta"
+  },
+  "amalapuram": {
+    "lat": 16.58,
+    "lon": 82.02,
+    "timezone": "Asia/Calcutta"
+  },
+  "ambala": {
+    "lat": 30.38,
+    "lon": 76.77,
+    "timezone": "Asia/Calcutta"
+  },
+  "ambasamudram": {
+    "lat": 8.7124228,
+    "lon": 77.4159983,
+    "timezone": "Asia/Calcutta"
+  },
+  "ambur": {
+    "lat": 12.7821459,
+    "lon": 78.6854269,
+    "timezone": "Asia/Calcutta"
+  },
+  "amravati": {
+    "lat": 20.93,
+    "lon": 77.75,
+    "timezone": "Asia/Calcutta"
+  },
+  "amritsar": {
+    "lat": 31.62,
+    "lon": 74.85,
+    "timezone": "Asia/Calcutta"
+  },
+  "amudalavalasa": {
+    "lat": 18.42,
+    "lon": 83.9,
+    "timezone": "Asia/Calcutta"
+  },
+  "anaimalaihills": {
+    "lat": 10.2999993,
+    "lon": 76.9824904,
+    "timezone": "Asia/Calcutta"
+  },
+  "anakapalle": {
+    "lat": 17.68,
+    "lon": 83.02,
+    "timezone": "Asia/Calcutta"
+  },
+  "anantapur": {
+    "lat": 14.68,
+    "lon": 77.6,
+    "timezone": "Asia/Calcutta"
+  },
+  "angamali": {
+    "lat": 10.2,
+    "lon": 76.39,
+    "timezone": "Asia/Calcutta"
+  },
+  "arakkonam": {
+    "lat": 13.0742446,
+    "lon": 79.6253007,
+    "timezone": "Asia/Calcutta"
+  },
+  "arani": {
+    "lat": 12.6704234,
+    "lon": 79.2728161,
+    "timezone": "Asia/Calcutta"
+  },
+  "aranthangi": {
+    "lat": 10.1715907,
+    "lon": 78.9890234,
+    "timezone": "Asia/Calcutta"
+  },
+  "arcot": {
+    "lat": 12.8994474,
+    "lon": 79.3013385,
+    "timezone": "Asia/Calcutta"
+  },
+  "armur": {
+    "lat": 18.79,
+    "lon": 78.29,
+    "timezone": "Asia/Calcutta"
+  },
+  "aruppukkottai": {
+    "lat": 9.5215955,
+    "lon": 78.0706855,
+    "timezone": "Asia/Calcutta"
+  },
+  "asansol": {
+    "lat": 23.68,
+    "lon": 86.97,
+    "timezone": "Asia/Calcutta"
+  },
+  "attur": {
+    "lat": 11.5983176,
+    "lon": 78.5799256,
+    "timezone": "Asia/Calcutta"
+  },
+  "aurangabad_mh": {
+    "lat": 19.88,
+    "lon": 75.32,
+    "timezone": "Asia/Calcutta"
+  },
+  "aurangabad_br": {
+    "lat": 24.77,
+    "lon": 84.38,
+    "timezone": "Asia/Calcutta"
+  },
+  "ayodhya": {
+    "lat": 26.7897709,
+    "lon": 82.1641483,
+    "timezone": "Asia/Calcutta"
+  },
+  "badvel": {
+    "lat": 14.75,
+    "lon": 79.05,
+    "timezone": "Asia/Calcutta"
+  },
+  "baharampur": {
+    "lat": 24.1,
+    "lon": 88.25,
+    "timezone": "Asia/Calcutta"
+  },
+  "bahraigh": {
+    "lat": 27.62,
+    "lon": 81.67,
+    "timezone": "Asia/Calcutta"
+  },
+  "baidyabati": {
+    "lat": 22.79,
+    "lon": 88.32,
+    "timezone": "Asia/Calcutta"
+  },
+  "bali": {
+    "lat": 22.65,
+    "lon": 88.34,
+    "timezone": "Asia/Calcutta"
+  },
+  "balurghat": {
+    "lat": 25.22,
+    "lon": 88.77,
+    "timezone": "Asia/Calcutta"
+  },
+  "bandipura": {
+    "lat": 34.42,
+    "lon": 74.64,
+    "timezone": "Asia/Calcutta"
+  },
+  "bangaon": {
+    "lat": 23.07,
+    "lon": 88.82,
+    "timezone": "Asia/Calcutta"
+  },
+  "bankura": {
+    "lat": 23.25,
+    "lon": 87.07,
+    "timezone": "Asia/Calcutta"
+  },
+  "bansbaria": {
+    "lat": 22.97,
+    "lon": 88.4,
+    "timezone": "Asia/Calcutta"
+  },
+  "bapatla": {
+    "lat": 15.89,
+    "lon": 80.47,
+    "timezone": "Asia/Calcutta"
+  },
+  "baramula": {
+    "lat": 34.2,
+    "lon": 74.34,
+    "timezone": "Asia/Calcutta"
+  },
+  "barasat": {
+    "lat": 22.23,
+    "lon": 88.45,
+    "timezone": "Asia/Calcutta"
+  },
+  "barddhaman": {
+    "lat": 23.25,
+    "lon": 87.85,
+    "timezone": "Asia/Calcutta"
+  },
+  "bareilly": {
+    "lat": 28.36,
+    "lon": 79.42,
+    "timezone": "Asia/Calcutta"
+  },
+  "basirhat": {
+    "lat": 22.66,
+    "lon": 88.89,
+    "timezone": "Asia/Calcutta"
+  },
+  "begusarai": {
+    "lat": 25.42,
+    "lon": 86.13,
+    "timezone": "Asia/Calcutta"
+  },
+  "belampalli": {
+    "lat": 19.06,
+    "lon": 79.49,
+    "timezone": "Asia/Calcutta"
+  },
+  "belgaum": {
+    "lat": 15.87,
+    "lon": 74.5,
+    "timezone": "Asia/Calcutta"
+  },
+  "bellary": {
+    "lat": 15.15,
+    "lon": 76.92,
+    "timezone": "Asia/Calcutta"
+  },
+  "bezwada": {
+    "lat": 16.52,
+    "lon": 80.62,
+    "timezone": "Asia/Calcutta"
+  },
+  "bhadreswar": {
+    "lat": 22.82,
+    "lon": 88.35,
+    "timezone": "Asia/Calcutta"
+  },
+  "bhagalpur": {
+    "lat": 25.25,
+    "lon": 87.02,
+    "timezone": "Asia/Calcutta"
+  },
+  "bhainsa": {
+    "lat": 19.1,
+    "lon": 77.97,
+    "timezone": "Asia/Calcutta"
+  },
+  "bharatpur": {
+    "lat": 27.22,
+    "lon": 77.49,
+    "timezone": "Asia/Calcutta"
+  },
+  "bhatpara": {
+    "lat": 22.87,
+    "lon": 88.42,
+    "timezone": "Asia/Calcutta"
+  },
+  "bhavnagar": {
+    "lat": 21.77,
+    "lon": 72.14,
+    "timezone": "Asia/Calcutta"
+  },
+  "bhayandar": {
+    "lat": 19.3,
+    "lon": 72.85,
+    "timezone": "Asia/Calcutta"
+  },
+  "bhilai": {
+    "lat": 21.22,
+    "lon": 81.43,
+    "timezone": "Asia/Calcutta"
+  },
+  "bhilwara": {
+    "lat": 25.35,
+    "lon": 74.63,
+    "timezone": "Asia/Calcutta"
+  },
+  "bhimavaram": {
+    "lat": 16.53,
+    "lon": 81.53,
+    "timezone": "Asia/Calcutta"
+  },
+  "bhimunipatnam": {
+    "lat": 17.89,
+    "lon": 83.45,
+    "timezone": "Asia/Calcutta"
+  },
+  "bhiwandi": {
+    "lat": 19.3,
+    "lon": 73.07,
+    "timezone": "Asia/Calcutta"
+  },
+  "bhiwani": {
+    "lat": 28.78,
+    "lon": 76.13,
+    "timezone": "Asia/Calcutta"
+  },
+  "bhopal": {
+    "lat": 23.25,
+    "lon": 77.42,
+    "timezone": "Asia/Calcutta"
+  },
+  "bhubaneshwar": {
+    "lat": 20.26,
+    "lon": 85.83,
+    "timezone": "Asia/Calcutta"
+  },
+  "bhuj": {
+    "lat": 23.25,
+    "lon": 69.81,
+    "timezone": "Asia/Calcutta"
+  },
+  "bhusaval": {
+    "lat": 21.02,
+    "lon": 75.83,
+    "timezone": "Asia/Calcutta"
+  },
+  "bidar": {
+    "lat": 17.92,
+    "lon": 77.52,
+    "timezone": "Asia/Calcutta"
+  },
+  "bijapur": {
+    "lat": 16.82,
+    "lon": 75.72,
+    "timezone": "Asia/Calcutta"
+  },
+  "bikaner": {
+    "lat": 28.02,
+    "lon": 73.32,
+    "timezone": "Asia/Calcutta"
+  },
+  "bilaspur": {
+    "lat": 22.15,
+    "lon": 82.02,
+    "timezone": "Asia/Calcutta"
+  },
+  "bobbili": {
+    "lat": 18.57,
+    "lon": 83.42,
+    "timezone": "Asia/Calcutta"
+  },
+  "bodhan": {
+    "lat": 18.67,
+    "lon": 77.9,
+    "timezone": "Asia/Calcutta"
+  },
+  "bodinayakanur": {
+    "lat": 10.0080748,
+    "lon": 77.3294266,
+    "timezone": "Asia/Calcutta"
+  },
+  "bodupal": {
+    "lat": 17.41,
+    "lon": 78.58,
+    "timezone": "Asia/Calcutta"
+  },
+  "brahmapur": {
+    "lat": 19.32,
+    "lon": 84.8,
+    "timezone": "Asia/Calcutta"
+  },
+  "budaun": {
+    "lat": 28.03,
+    "lon": 79.09,
+    "timezone": "Asia/Calcutta"
+  },
+  "bulandshahr": {
+    "lat": 28.41,
+    "lon": 77.85,
+    "timezone": "Asia/Calcutta"
+  },
+  "burhanpur": {
+    "lat": 21.3,
+    "lon": 76.13,
+    "timezone": "Asia/Calcutta"
+  },
+  "calicut": {
+    "lat": 11.25,
+    "lon": 75.77,
+    "timezone": "Asia/Calcutta"
+  },
+  "chakradharpur": {
+    "lat": 22.7,
+    "lon": 85.63,
+    "timezone": "Asia/Calcutta"
+  },
+  "champdani": {
+    "lat": 22.8,
+    "lon": 88.37,
+    "timezone": "Asia/Calcutta"
+  },
+  "chanda": {
+    "lat": 19.95,
+    "lon": 79.3,
+    "timezone": "Asia/Calcutta"
+  },
+  "chandannagar": {
+    "lat": 22.87,
+    "lon": 88.38,
+    "timezone": "Asia/Calcutta"
+  },
+  "chandigarh": {
+    "lat": 30.74,
+    "lon": 76.79,
+    "timezone": "Asia/Calcutta"
+  },
+  "channarayapatna": {
+    "lat": 12.9,
+    "lon": 76.39,
+    "timezone": "Asia/Calcutta"
+  },
+  "chengalpattu": {
+    "lat": 12.6729725,
+    "lon": 79.9624583,
+    "timezone": "Asia/Calcutta"
+  },
+  "chicacole": {
+    "lat": 18.3,
+    "lon": 83.9,
+    "timezone": "Asia/Calcutta"
+  },
+  "chidambaram": {
+    "lat": 11.4015775,
+    "lon": 79.6626949,
+    "timezone": "Asia/Calcutta"
+  },
+  "chilakalurupet": {
+    "lat": 16.09,
+    "lon": 80.17,
+    "timezone": "Asia/Calcutta"
+  },
+  "chimakurti": {
+    "lat": 15.58,
+    "lon": 79.87,
+    "timezone": "Asia/Calcutta"
+  },
+  "chinchvad": {
+    "lat": 18.63,
+    "lon": 73.81,
+    "timezone": "Asia/Calcutta"
+  },
+  "chirala": {
+    "lat": 15.82,
+    "lon": 80.35,
+    "timezone": "Asia/Calcutta"
+  },
+  "chittaurgarh": {
+    "lat": 24.89,
+    "lon": 74.62,
+    "timezone": "Asia/Calcutta"
+  },
+  "chittoor": {
+    "lat": 13.2,
+    "lon": 79.12,
+    "timezone": "Asia/Calcutta"
+  },
+  "cuddalore": {
+    "lat": 11.7508628,
+    "lon": 79.7316556,
+    "timezone": "Asia/Calcutta"
+  },
+  "cuddapah": {
+    "lat": 14.47,
+    "lon": 78.82,
+    "timezone": "Asia/Calcutta"
+  },
+  "cuttack": {
+    "lat": 20.45,
+    "lon": 85.87,
+    "timezone": "Asia/Calcutta"
+  },
+  "damdam": {
+    "lat": 22.62,
+    "lon": 88.42,
+    "timezone": "Asia/Calcutta"
+  },
+  "daman": {
+    "lat": 20.42,
+    "lon": 72.85,
+    "timezone": "Asia/Calcutta"
+  },
+  "darjeeling": {
+    "lat": 27.04,
+    "lon": 88.26,
+    "timezone": "Asia/Calcutta"
+  },
+  "davangere": {
+    "lat": 14.47,
+    "lon": 75.92,
+    "timezone": "Asia/Calcutta"
+  },
+  "dehradun": {
+    "lat": 30.32,
+    "lon": 78.03,
+    "timezone": "Asia/Calcutta"
+  },
+  "deo": {
+    "lat": 24.66,
+    "lon": 84.44,
+    "timezone": "Asia/Calcutta"
+  },
+  "deogar": {
+    "lat": 24.4852,
+    "lon": 86.6948,
+    "timezone": "Asia/Calcutta"
+  },
+  "devakottai": {
+    "lat": 9.9554415,
+    "lon": 78.7987238,
+    "timezone": "Asia/Calcutta"
+  },
+  "devarkonda": {
+    "lat": 16.7,
+    "lon": 78.93,
+    "timezone": "Asia/Calcutta"
+  },
+  "dhanbad": {
+    "lat": 23.79,
+    "lon": 86.44,
+    "timezone": "Asia/Calcutta"
+  },
+  "dhanushkodi": {
+    "lat": 9.1726417,
+    "lon": 79.3860476,
+    "timezone": "Asia/Calcutta"
+  },
+  "dharapuram": {
+    "lat": 10.7240036,
+    "lon": 77.6568252,
+    "timezone": "Asia/Calcutta"
+  },
+  "dharmapuri": {
+    "lat": 12.1269508,
+    "lon": 78.1164646,
+    "timezone": "Asia/Calcutta"
+  },
+  "dharmavaram": {
+    "lat": 14.41,
+    "lon": 77.72,
+    "timezone": "Asia/Calcutta"
+  },
+  "dholka": {
+    "lat": 22.72,
+    "lon": 72.47,
+    "timezone": "Asia/Calcutta"
+  },
+  "dhulia": {
+    "lat": 20.9,
+    "lon": 74.78,
+    "timezone": "Asia/Calcutta"
+  },
+  "dibrugarh": {
+    "lat": 27.48,
+    "lon": 95.0,
+    "timezone": "Asia/Calcutta"
+  },
+  "dindigul": {
+    "lat": 10.3623787,
+    "lon": 77.9519483,
+    "timezone": "Asia/Calcutta"
+  },
+  "dispur": {
+    "lat": 26.15,
+    "lon": 91.77,
+    "timezone": "Asia/Calcutta"
+  },
+  "diu": {
+    "lat": 20.72,
+    "lon": 70.99,
+    "timezone": "Asia/Calcutta"
+  },
+  "drug": {
+    "lat": 21.19,
+    "lon": 81.28,
+    "timezone": "Asia/Calcutta"
+  },
+  "durgapur": {
+    "lat": 23.55,
+    "lon": 87.32,
+    "timezone": "Asia/Calcutta"
+  },
+  "dwarka": {
+    "lat": 22.24,
+    "lon": 68.97,
+    "timezone": "Asia/Calcutta"
+  },
+  "ellore": {
+    "lat": 16.7,
+    "lon": 81.1,
+    "timezone": "Asia/Calcutta"
+  },
+  "emmiganur": {
+    "lat": 15.73,
+    "lon": 77.48,
+    "timezone": "Asia/Calcutta"
+  },
+  "ennore": {
+    "lat": 13.2081383,
+    "lon": 80.2986397,
+    "timezone": "Asia/Calcutta"
+  },
+  "erode": {
+    "lat": 11.3466179,
+    "lon": 77.6453564,
+    "timezone": "Asia/Calcutta"
+  },
+  "etawah": {
+    "lat": 26.79,
+    "lon": 79.02,
+    "timezone": "Asia/Calcutta"
+  },
+  "faridabad": {
+    "lat": 28.43,
+    "lon": 77.32,
+    "timezone": "Asia/Calcutta"
+  },
+  "firozabad": {
+    "lat": 27.15,
+    "lon": 78.39,
+    "timezone": "Asia/Calcutta"
+  },
+  "fyzabad": {
+    "lat": 26.75,
+    "lon": 82.17,
+    "timezone": "Asia/Calcutta"
+  },
+  "gadwal": {
+    "lat": 16.23,
+    "lon": 77.8,
+    "timezone": "Asia/Calcutta"
+  },
+  "gangtok": {
+    "lat": 27.33,
+    "lon": 88.62,
+    "timezone": "Asia/Calcutta"
+  },
+  "gauripur": {
+    "lat": 26.08,
+    "lon": 89.97,
+    "timezone": "Asia/Calcutta"
+  },
+  "gaya": {
+    "lat": 24.75,
+    "lon": 85.02,
+    "timezone": "Asia/Calcutta"
+  },
+  "gandhinagar": {
+    "lat": 23.22,
+    "lon": 72.68,
+    "timezone": "Asia/Calcutta"
+  },
+  "ghaziabad": {
+    "lat": 28.67,
+    "lon": 77.42,
+    "timezone": "Asia/Calcutta"
+  },
+  "giddalur": {
+    "lat": 15.38,
+    "lon": 78.93,
+    "timezone": "Asia/Calcutta"
+  },
+  "godhra": {
+    "lat": 22.78,
+    "lon": 73.61,
+    "timezone": "Asia/Calcutta"
+  },
+  "gorakhpur": {
+    "lat": 26.76,
+    "lon": 83.37,
+    "timezone": "Asia/Calcutta"
+  },
+  "gudivada": {
+    "lat": 16.43,
+    "lon": 80.99,
+    "timezone": "Asia/Calcutta"
+  },
+  "gudiyatham": {
+    "lat": 12.9462124,
+    "lon": 78.8481645,
+    "timezone": "Asia/Calcutta"
+  },
+  "gulbarga": {
+    "lat": 17.33,
+    "lon": 76.83,
+    "timezone": "Asia/Calcutta"
+  },
+  "guntakal": {
+    "lat": 15.17,
+    "lon": 77.38,
+    "timezone": "Asia/Calcutta"
+  },
+  "guntur": {
+    "lat": 16.3,
+    "lon": 80.45,
+    "timezone": "Asia/Calcutta"
+  },
+  "gurugram": {
+    "lat": 28.45,
+    "lon": 77.02,
+    "timezone": "Asia/Calcutta"
+  },
+  "guwahati": {
+    "lat": 26.17,
+    "lon": 91.77,
+    "timezone": "Asia/Calcutta"
+  },
+  "gwalior": {
+    "lat": 26.21,
+    "lon": 78.19,
+    "timezone": "Asia/Calcutta"
+  },
+  "habra": {
+    "lat": 22.83,
+    "lon": 88.63,
+    "timezone": "Asia/Calcutta"
+  },
+  "haldia": {
+    "lat": 22.03,
+    "lon": 88.06,
+    "timezone": "Asia/Calcutta"
+  },
+  "halisahar": {
+    "lat": 22.95,
+    "lon": 88.42,
+    "timezone": "Asia/Calcutta"
+  },
+  "handwara": {
+    "lat": 34.4,
+    "lon": 74.28,
+    "timezone": "Asia/Calcutta"
+  },
+  "haora": {
+    "lat": 22.59,
+    "lon": 88.31,
+    "timezone": "Asia/Calcutta"
+  },
+  "hapur": {
+    "lat": 28.74,
+    "lon": 77.76,
+    "timezone": "Asia/Calcutta"
+  },
+  "haripur": {
+    "lat": 31.52,
+    "lon": 75.98,
+    "timezone": "Asia/Calcutta"
+  },
+  "hassan": {
+    "lat": 13.01,
+    "lon": 76.1,
+    "timezone": "Asia/Calcutta"
+  },
+  "hathras": {
+    "lat": 27.6,
+    "lon": 78.05,
+    "timezone": "Asia/Calcutta"
+  },
+  "hindupur": {
+    "lat": 13.83,
+    "lon": 77.49,
+    "timezone": "Asia/Calcutta"
+  },
+  "hisar": {
+    "lat": 29.15,
+    "lon": 75.74,
+    "timezone": "Asia/Calcutta"
+  },
+  "hospet": {
+    "lat": 15.27,
+    "lon": 76.4,
+    "timezone": "Asia/Calcutta"
+  },
+  "hosur": {
+    "lat": 12.7378317,
+    "lon": 77.7626869,
+    "timezone": "Asia/Calcutta"
+  },
+  "hubli": {
+    "lat": 15.36,
+    "lon": 75.12,
+    "timezone": "Asia/Calcutta"
+  },
+  "hugli": {
+    "lat": 22.9,
+    "lon": 88.39,
+    "timezone": "Asia/Calcutta"
+  },
+  "ichalkaranji": {
+    "lat": 16.7,
+    "lon": 74.47,
+    "timezone": "Asia/Calcutta"
+  },
+  "imphal": {
+    "lat": 24.82,
+    "lon": 93.95,
+    "timezone": "Asia/Calcutta"
+  },
+  "indore": {
+    "lat": 22.72,
+    "lon": 75.85,
+    "timezone": "Asia/Calcutta"
+  },
+  "itanagar": {
+    "lat": 27.1,
+    "lon": 93.62,
+    "timezone": "Asia/Calcutta"
+  },
+  "jabalpur": {
+    "lat": 23.17,
+    "lon": 79.93,
+    "timezone": "Asia/Calcutta"
+  },
+  "jaggayyapeta": {
+    "lat": 16.89,
+    "lon": 80.1,
+    "timezone": "Asia/Calcutta"
+  },
+  "jagtial": {
+    "lat": 18.8,
+    "lon": 78.93,
+    "timezone": "Asia/Calcutta"
+  },
+  "jaipur": {
+    "lat": 26.92,
+    "lon": 75.87,
+    "timezone": "Asia/Calcutta"
+  },
+  "jaisalmer": {
+    "lat": 26.92,
+    "lon": 70.92,
+    "timezone": "Asia/Calcutta"
+  },
+  "jalandhar": {
+    "lat": 31.33,
+    "lon": 75.58,
+    "timezone": "Asia/Calcutta"
+  },
+  "jalgaon": {
+    "lat": 21.02,
+    "lon": 75.57,
+    "timezone": "Asia/Calcutta"
+  },
+  "jalor": {
+    "lat": 25.35,
+    "lon": 72.62,
+    "timezone": "Asia/Calcutta"
+  },
+  "jalpaiguri": {
+    "lat": 26.52,
+    "lon": 88.73,
+    "timezone": "Asia/Calcutta"
+  },
+  "jammalamadugu": {
+    "lat": 14.85,
+    "lon": 78.38,
+    "timezone": "Asia/Calcutta"
+  },
+  "jammu": {
+    "lat": 32.73,
+    "lon": 74.85,
+    "timezone": "Asia/Calcutta"
+  },
+  "jamnagar": {
+    "lat": 22.47,
+    "lon": 70.07,
+    "timezone": "Asia/Calcutta"
+  },
+  "jamshedpur": {
+    "lat": 22.8,
+    "lon": 86.18,
+    "timezone": "Asia/Calcutta"
+  },
+  "jamuria": {
+    "lat": 23.7,
+    "lon": 87.08,
+    "timezone": "Asia/Calcutta"
+  },
+  "jangaon": {
+    "lat": 17.72,
+    "lon": 79.18,
+    "timezone": "Asia/Calcutta"
+  },
+  "jasdan": {
+    "lat": 22.03,
+    "lon": 71.2,
+    "timezone": "Asia/Calcutta"
+  },
+  "jatani": {
+    "lat": 20.17,
+    "lon": 85.7,
+    "timezone": "Asia/Calcutta"
+  },
+  "jaunpur": {
+    "lat": 25.73,
+    "lon": 82.68,
+    "timezone": "Asia/Calcutta"
+  },
+  "jaynagar-majilpur": {
+    "lat": 22.18,
+    "lon": 88.43,
+    "timezone": "Asia/Calcutta"
+  },
+  "jhansi": {
+    "lat": 25.45,
+    "lon": 78.57,
+    "timezone": "Asia/Calcutta"
+  },
+  "jodhpur": {
+    "lat": 26.29,
+    "lon": 73.02,
+    "timezone": "Asia/Calcutta"
+  },
+  "jolarpet": {
+    "lat": 12.5711792,
+    "lon": 78.563104,
+    "timezone": "Asia/Calcutta"
+  },
+  "jorhat": {
+    "lat": 26.75,
+    "lon": 94.22,
+    "timezone": "Asia/Calcutta"
+  },
+  "junnar": {
+    "lat": 19.2,
+    "lon": 73.88,
+    "timezone": "Asia/Calcutta"
+  },
+  "kadiri": {
+    "lat": 14.12,
+    "lon": 78.17,
+    "timezone": "Asia/Calcutta"
+  },
+  "kagaznagar": {
+    "lat": 19.33,
+    "lon": 79.47,
+    "timezone": "Asia/Calcutta"
+  },
+  "kairana": {
+    "lat": 29.4,
+    "lon": 77.2,
+    "timezone": "Asia/Calcutta"
+  },
+  "kakinada": {
+    "lat": 16.93,
+    "lon": 82.22,
+    "timezone": "Asia/Calcutta"
+  },
+  "kalyan": {
+    "lat": 19.25,
+    "lon": 73.16,
+    "timezone": "Asia/Calcutta"
+  },
+  "kalyani": {
+    "lat": 22.98,
+    "lon": 88.43,
+    "timezone": "Asia/Calcutta"
+  },
+  "kamareddipet": {
+    "lat": 18.32,
+    "lon": 78.35,
+    "timezone": "Asia/Calcutta"
+  },
+  "kamarhati": {
+    "lat": 22.67,
+    "lon": 88.37,
+    "timezone": "Asia/Calcutta"
+  },
+  "kanchrapara": {
+    "lat": 22.97,
+    "lon": 88.43,
+    "timezone": "Asia/Calcutta"
+  },
+  "kandukur": {
+    "lat": 15.22,
+    "lon": 79.9,
+    "timezone": "Asia/Calcutta"
+  },
+  "kanpur": {
+    "lat": 26.47,
+    "lon": 80.33,
+    "timezone": "Asia/Calcutta"
+  },
+  "karaikudi": {
+    "lat": 10.0695302,
+    "lon": 78.771433,
+    "timezone": "Asia/Calcutta"
+  },
+  "karimnagar": {
+    "lat": 18.43,
+    "lon": 79.15,
+    "timezone": "Asia/Calcutta"
+  },
+  "karnal": {
+    "lat": 29.68,
+    "lon": 76.97,
+    "timezone": "Asia/Calcutta"
+  },
+  "karur": {
+    "lat": 10.9651437,
+    "lon": 77.997917,
+    "timezone": "Asia/Calcutta"
+  },
+  "kavali": {
+    "lat": 14.91,
+    "lon": 79.99,
+    "timezone": "Asia/Calcutta"
+  },
+  "kavaratti": {
+    "lat": 10.56,
+    "lon": 72.64,
+    "timezone": "Asia/Calcutta"
+  },
+  "kayalpattinam": {
+    "lat": 8.5655185,
+    "lon": 78.1056828,
+    "timezone": "Asia/Calcutta"
+  },
+  "keelakarai": {
+    "lat": 9.2339134,
+    "lon": 78.7665638,
+    "timezone": "Asia/Calcutta"
+  },
+  "khajuraho": {
+    "lat": 24.85,
+    "lon": 79.93,
+    "timezone": "Asia/Calcutta"
+  },
+  "khambhat": {
+    "lat": 22.31,
+    "lon": 72.62,
+    "timezone": "Asia/Calcutta"
+  },
+  "khammam": {
+    "lat": 17.25,
+    "lon": 80.15,
+    "timezone": "Asia/Calcutta"
+  },
+  "kharagpur": {
+    "lat": 22.33,
+    "lon": 87.32,
+    "timezone": "Asia/Calcutta"
+  },
+  "khardah": {
+    "lat": 22.72,
+    "lon": 88.38,
+    "timezone": "Asia/Calcutta"
+  },
+  "kochi": {
+    "lat": 9.97,
+    "lon": 76.28,
+    "timezone": "Asia/Calcutta"
+  },
+  "kodaikanal": {
+    "lat": 10.23,
+    "lon": 77.48,
+    "timezone": "Asia/Calcutta"
+  },
+  "kohima": {
+    "lat": 25.67,
+    "lon": 94.12,
+    "timezone": "Asia/Calcutta"
+  },
+  "koilkuntla": {
+    "lat": 15.23,
+    "lon": 78.32,
+    "timezone": "Asia/Calcutta"
+  },
+  "kolar": {
+    "lat": 13.13,
+    "lon": 78.13,
+    "timezone": "Asia/Calcutta"
+  },
+  "kolhapur": {
+    "lat": 16.7,
+    "lon": 74.23,
+    "timezone": "Asia/Calcutta"
+  },
+  "kolkata": {
+    "lat": 22.54,
+    "lon": 88.34,
+    "timezone": "Asia/Calcutta"
+  },
+  "koratla": {
+    "lat": 18.82,
+    "lon": 78.72,
+    "timezone": "Asia/Calcutta"
+  },
+  "kota": {
+    "lat": 25.18,
+    "lon": 75.83,
+    "timezone": "Asia/Calcutta"
+  },
+  "kothapet": {
+    "lat": 19.33,
+    "lon": 79.48,
+    "timezone": "Asia/Calcutta"
+  },
+  "kottagudem": {
+    "lat": 17.55,
+    "lon": 80.63,
+    "timezone": "Asia/Calcutta"
+  },
+  "kovvur": {
+    "lat": 17.02,
+    "lon": 81.73,
+    "timezone": "Asia/Calcutta"
+  },
+  "krishnagiri": {
+    "lat": 12.5265653,
+    "lon": 78.1974479,
+    "timezone": "Asia/Calcutta"
+  },
+  "krishnanagar": {
+    "lat": 23.4,
+    "lon": 88.5,
+    "timezone": "Asia/Calcutta"
+  },
+  "kulgam": {
+    "lat": 33.64,
+    "lon": 75.02,
+    "timezone": "Asia/Calcutta"
+  },
+  "kulti": {
+    "lat": 23.73,
+    "lon": 86.85,
+    "timezone": "Asia/Calcutta"
+  },
+  "kumbakonam": {
+    "lat": 10.9621643,
+    "lon": 79.2980262,
+    "timezone": "Asia/Calcutta"
+  },
+  "kurnool": {
+    "lat": 15.82,
+    "lon": 78.03,
+    "timezone": "Asia/Calcutta"
+  },
+  "latur": {
+    "lat": 18.4,
+    "lon": 76.57,
+    "timezone": "Asia/Calcutta"
+  },
+  "lucknow": {
+    "lat": 26.85,
+    "lon": 80.95,
+    "timezone": "Asia/Calcutta"
+  },
+  "ludhiana": {
+    "lat": 30.91,
+    "lon": 75.85,
+    "timezone": "Asia/Calcutta"
+  },
+  "macherla": {
+    "lat": 16.48,
+    "lon": 79.43,
+    "timezone": "Asia/Calcutta"
+  },
+  "machilipatnam": {
+    "lat": 16.17,
+    "lon": 81.13,
+    "timezone": "Asia/Calcutta"
+  },
+  "madanapalle": {
+    "lat": 13.55,
+    "lon": 78.5,
+    "timezone": "Asia/Calcutta"
+  },
+  "madhyamgram": {
+    "lat": 22.7,
+    "lon": 88.45,
+    "timezone": "Asia/Calcutta"
+  },
+  "maduranthakam": {
+    "lat": 12.5056313,
+    "lon": 79.8686741,
+    "timezone": "Asia/Calcutta"
+  },
+  "mahabalipuram": {
+    "lat": 12.6223265,
+    "lon": 80.1736327,
+    "timezone": "Asia/Calcutta"
+  },
+  "mahadanapuram": {
+    "lat": 10.9508,
+    "lon": 78.3003,
+    "timezone": "Asia/Calcutta"
+  },
+  "mahbubnagar": {
+    "lat": 16.73,
+    "lon": 77.98,
+    "timezone": "Asia/Calcutta"
+  },
+  "mahesana": {
+    "lat": 23.6,
+    "lon": 72.4,
+    "timezone": "Asia/Calcutta"
+  },
+  "maheshwar": {
+    "lat": 22.1738326,
+    "lon": 75.58033,
+    "timezone": "Asia/Calcutta"
+  },
+  "maihar": {
+    "lat": 24.27,
+    "lon": 80.75,
+    "timezone": "Asia/Calcutta"
+  },
+  "malaut": {
+    "lat": 30.19,
+    "lon": 74.5,
+    "timezone": "Asia/Calcutta"
+  },
+  "malegaon": {
+    "lat": 20.55,
+    "lon": 74.55,
+    "timezone": "Asia/Calcutta"
+  },
+  "mancheral": {
+    "lat": 18.87,
+    "lon": 79.46,
+    "timezone": "Asia/Calcutta"
+  },
+  "mandamari": {
+    "lat": 18.98,
+    "lon": 79.48,
+    "timezone": "Asia/Calcutta"
+  },
+  "mandapeta": {
+    "lat": 16.87,
+    "lon": 81.93,
+    "timezone": "Asia/Calcutta"
+  },
+  "mandsaur": {
+    "lat": 24.03,
+    "lon": 75.08,
+    "timezone": "Asia/Calcutta"
+  },
+  "mandya": {
+    "lat": 12.52,
+    "lon": 76.9,
+    "timezone": "Asia/Calcutta"
+  },
+  "mangalagiri": {
+    "lat": 16.43,
+    "lon": 80.55,
+    "timezone": "Asia/Calcutta"
+  },
+  "mangalore": {
+    "lat": 12.87,
+    "lon": 74.88,
+    "timezone": "Asia/Calcutta"
+  },
+  "mangur": {
+    "lat": 17.94,
+    "lon": 80.82,
+    "timezone": "Asia/Calcutta"
+  },
+  "mannargudi": {
+    "lat": 10.6661157,
+    "lon": 79.4125267,
+    "timezone": "Asia/Calcutta"
+  },
+  "markapur": {
+    "lat": 15.73,
+    "lon": 79.27,
+    "timezone": "Asia/Calcutta"
+  },
+  "mathura": {
+    "lat": 27.48,
+    "lon": 77.68,
+    "timezone": "Asia/Calcutta"
+  },
+  "mauli": {
+    "lat": 30.72,
+    "lon": 76.72,
+    "timezone": "Asia/Calcutta"
+  },
+  "mayiladuthurai": {
+    "lat": 11.1017698,
+    "lon": 79.635059,
+    "timezone": "Asia/Calcutta"
+  },
+  "medinipur": {
+    "lat": 22.43,
+    "lon": 87.33,
+    "timezone": "Asia/Calcutta"
+  },
+  "meerut": {
+    "lat": 28.99,
+    "lon": 77.7,
+    "timezone": "Asia/Calcutta"
+  },
+  "metpalli": {
+    "lat": 18.83,
+    "lon": 78.59,
+    "timezone": "Asia/Calcutta"
+  },
+  "mettupalayam": {
+    "lat": 11.2971581,
+    "lon": 76.9167304,
+    "timezone": "Asia/Calcutta"
+  },
+  "mirzapur": {
+    "lat": 25.15,
+    "lon": 82.58,
+    "timezone": "Asia/Calcutta"
+  },
+  "moradabad": {
+    "lat": 28.84,
+    "lon": 78.76,
+    "timezone": "Asia/Calcutta"
+  },
+  "muzaffarnagar": {
+    "lat": 29.47,
+    "lon": 77.7,
+    "timezone": "Asia/Calcutta"
+  },
+  "muzaffarpur": {
+    "lat": 26.12,
+    "lon": 85.38,
+    "timezone": "Asia/Calcutta"
+  },
+  "nagapattinam": {
+    "lat": 10.77,
+    "lon": 79.83,
+    "timezone": "Asia/Calcutta"
+  },
+  "nagari": {
+    "lat": 13.33,
+    "lon": 79.58,
+    "timezone": "Asia/Calcutta"
+  },
+  "nagercoil": {
+    "lat": 8.1713036,
+    "lon": 77.3800127,
+    "timezone": "Asia/Calcutta"
+  },
+  "nagpur": {
+    "lat": 21.15,
+    "lon": 79.08,
+    "timezone": "Asia/Calcutta"
+  },
+  "naihati": {
+    "lat": 22.9,
+    "lon": 88.42,
+    "timezone": "Asia/Calcutta"
+  },
+  "nainital": {
+    "lat": 29.39,
+    "lon": 79.45,
+    "timezone": "Asia/Calcutta"
+  },
+  "nalgonda": {
+    "lat": 17.05,
+    "lon": 79.27,
+    "timezone": "Asia/Calcutta"
+  },
+  "namakkal": {
+    "lat": 11.228488,
+    "lon": 78.1306654,
+    "timezone": "Asia/Calcutta"
+  },
+  "nanded": {
+    "lat": 19.15,
+    "lon": 77.33,
+    "timezone": "Asia/Calcutta"
+  },
+  "nandod": {
+    "lat": 21.87,
+    "lon": 73.5,
+    "timezone": "Asia/Calcutta"
+  },
+  "nandyal": {
+    "lat": 15.48,
+    "lon": 78.48,
+    "timezone": "Asia/Calcutta"
+  },
+  "nanguneri": {
+    "lat": 8.4983936,
+    "lon": 77.634962,
+    "timezone": "Asia/Calcutta"
+  },
+  "narasannapeta": {
+    "lat": 18.42,
+    "lon": 84.04,
+    "timezone": "Asia/Calcutta"
+  },
+  "narasapur": {
+    "lat": 16.43,
+    "lon": 81.68,
+    "timezone": "Asia/Calcutta"
+  },
+  "narasaraopet": {
+    "lat": 16.24,
+    "lon": 80.05,
+    "timezone": "Asia/Calcutta"
+  },
+  "nasik": {
+    "lat": 20.0,
+    "lon": 73.78,
+    "timezone": "Asia/Calcutta"
+  },
+  "navadwip": {
+    "lat": 23.41,
+    "lon": 88.37,
+    "timezone": "Asia/Calcutta"
+  },
+  "navsari": {
+    "lat": 20.85,
+    "lon": 72.92,
+    "timezone": "Asia/Calcutta"
+  },
+  "nellore": {
+    "lat": 14.43,
+    "lon": 79.97,
+    "timezone": "Asia/Calcutta"
+  },
+  "newdelhi": {
+    "lat": 28.7,
+    "lon": 77.2,
+    "timezone": "Asia/Calcutta"
+  },
+  "neyveli": {
+    "lat": 11.5390014,
+    "lon": 79.4706313,
+    "timezone": "Asia/Calcutta"
+  },
+  "nidadavole": {
+    "lat": 16.92,
+    "lon": 81.67,
+    "timezone": "Asia/Calcutta"
+  },
+  "nizamabad": {
+    "lat": 18.67,
+    "lon": 78.1,
+    "timezone": "Asia/Calcutta"
+  },
+  "ongole": {
+    "lat": 15.5,
+    "lon": 80.05,
+    "timezone": "Asia/Calcutta"
+  },
+  "ooty": {
+    "lat": 11.4118505,
+    "lon": 76.658402,
+    "timezone": "Asia/Calcutta"
+  },
+  "osmanabad": {
+    "lat": 18.17,
+    "lon": 76.05,
+    "timezone": "Asia/Calcutta"
+  },
+  "padmanabhapuram": {
+    "lat": 8.2463135,
+    "lon": 77.3268525,
+    "timezone": "Asia/Calcutta"
+  },
+  "palakollu": {
+    "lat": 16.53,
+    "lon": 81.73,
+    "timezone": "Asia/Calcutta"
+  },
+  "palghat": {
+    "lat": 10.78,
+    "lon": 76.65,
+    "timezone": "Asia/Calcutta"
+  },
+  "pali": {
+    "lat": 25.77,
+    "lon": 73.32,
+    "timezone": "Asia/Calcutta"
+  },
+  "palladam": {
+    "lat": 11.0000595,
+    "lon": 77.2670728,
+    "timezone": "Asia/Calcutta"
+  },
+  "palmaner": {
+    "lat": 13.2,
+    "lon": 78.75,
+    "timezone": "Asia/Calcutta"
+  },
+  "palanihills": {
+    "lat": 10.1999994,
+    "lon": 77.4824904,
+    "timezone": "Asia/Calcutta"
+  },
+  "paloncha": {
+    "lat": 17.58,
+    "lon": 80.68,
+    "timezone": "Asia/Calcutta"
+  },
+  "pamidi": {
+    "lat": 14.95,
+    "lon": 77.58,
+    "timezone": "Asia/Calcutta"
+  },
+  "panaji": {
+    "lat": 15.48,
+    "lon": 73.83,
+    "timezone": "Asia/Calcutta"
+  },
+  "panchkula": {
+    "lat": 30.69,
+    "lon": 76.85,
+    "timezone": "Asia/Calcutta"
+  },
+  "panihati": {
+    "lat": 22.69,
+    "lon": 88.37,
+    "timezone": "Asia/Calcutta"
+  },
+  "panipat": {
+    "lat": 29.4,
+    "lon": 76.97,
+    "timezone": "Asia/Calcutta"
+  },
+  "panruti": {
+    "lat": 11.7786337,
+    "lon": 79.5241492,
+    "timezone": "Asia/Calcutta"
+  },
+  "paramakudi": {
+    "lat": 9.5451372,
+    "lon": 78.5489356,
+    "timezone": "Asia/Calcutta"
+  },
+  "parangipettai": {
+    "lat": 11.5055394,
+    "lon": 79.738867,
+    "timezone": "Asia/Calcutta"
+  },
+  "parbhani": {
+    "lat": 19.27,
+    "lon": 76.76,
+    "timezone": "Asia/Calcutta"
+  },
+  "pathanamthitta": {
+    "lat": 9.26,
+    "lon": 76.79,
+    "timezone": "Asia/Calcutta"
+  },
+  "pathankot": {
+    "lat": 32.27,
+    "lon": 75.65,
+    "timezone": "Asia/Calcutta"
+  },
+  "patiala": {
+    "lat": 30.32,
+    "lon": 76.39,
+    "timezone": "Asia/Calcutta"
+  },
+  "patna": {
+    "lat": 25.61,
+    "lon": 85.14,
+    "timezone": "Asia/Calcutta"
+  },
+  "pattukkottai": {
+    "lat": 10.4232264,
+    "lon": 79.3024889,
+    "timezone": "Asia/Calcutta"
+  },
+  "pedana": {
+    "lat": 16.27,
+    "lon": 81.17,
+    "timezone": "Asia/Calcutta"
+  },
+  "perambalur": {
+    "lat": 11.2342097,
+    "lon": 78.8631756,
+    "timezone": "Asia/Calcutta"
+  },
+  "periyakulam": {
+    "lat": 10.1238772,
+    "lon": 77.5299611,
+    "timezone": "Asia/Calcutta"
+  },
+  "pilibhit": {
+    "lat": 28.64,
+    "lon": 79.81,
+    "timezone": "Asia/Calcutta"
+  },
+  "pithapuram": {
+    "lat": 17.12,
+    "lon": 82.27,
+    "timezone": "Asia/Calcutta"
+  },
+  "pollachi": {
+    "lat": 10.6608918,
+    "lon": 76.9872494,
+    "timezone": "Asia/Calcutta"
+  },
+  "ponneri": {
+    "lat": 13.3340943,
+    "lon": 80.1748404,
+    "timezone": "Asia/Calcutta"
+  },
+  "ponnuru": {
+    "lat": 16.07,
+    "lon": 80.57,
+    "timezone": "Asia/Calcutta"
+  },
+  "porbandar": {
+    "lat": 21.64,
+    "lon": 69.6,
+    "timezone": "Asia/Calcutta"
+  },
+  "portblair": {
+    "lat": 11.67,
+    "lon": 92.75,
+    "timezone": "Asia/Calcutta"
+  },
+  "proddatur": {
+    "lat": 14.73,
+    "lon": 78.55,
+    "timezone": "Asia/Calcutta"
+  },
+  "puducherry": {
+    "lat": 11.93,
+    "lon": 79.83,
+    "timezone": "Asia/Calcutta"
+  },
+  "pudukkottai": {
+    "lat": 10.3833075,
+    "lon": 78.7913742,
+    "timezone": "Asia/Calcutta"
+  },
+  "pulivendla": {
+    "lat": 14.42,
+    "lon": 78.23,
+    "timezone": "Asia/Calcutta"
+  },
+  "punganuru": {
+    "lat": 13.37,
+    "lon": 78.58,
+    "timezone": "Asia/Calcutta"
+  },
+  "puri": {
+    "lat": 19.8,
+    "lon": 85.82,
+    "timezone": "Asia/Calcutta"
+  },
+  "purnea": {
+    "lat": 25.78,
+    "lon": 87.47,
+    "timezone": "Asia/Calcutta"
+  },
+  "puttur": {
+    "lat": 13.45,
+    "lon": 79.55,
+    "timezone": "Asia/Calcutta"
+  },
+  "quilon": {
+    "lat": 8.89,
+    "lon": 76.59,
+    "timezone": "Asia/Calcutta"
+  },
+  "raichur": {
+    "lat": 16.21,
+    "lon": 77.36,
+    "timezone": "Asia/Calcutta"
+  },
+  "raiganj": {
+    "lat": 25.62,
+    "lon": 88.12,
+    "timezone": "Asia/Calcutta"
+  },
+  "raipur": {
+    "lat": 21.24,
+    "lon": 81.63,
+    "timezone": "Asia/Calcutta"
+  },
+  "rajahmundry": {
+    "lat": 16.98,
+    "lon": 81.78,
+    "timezone": "Asia/Calcutta"
+  },
+  "rajaori": {
+    "lat": 33.38,
+    "lon": 74.3,
+    "timezone": "Asia/Calcutta"
+  },
+  "rajapalayam": {
+    "lat": 9.4596118,
+    "lon": 77.4863771,
+    "timezone": "Asia/Calcutta"
+  },
+  "rajgir": {
+    "lat": 25.03,
+    "lon": 85.42,
+    "timezone": "Asia/Calcutta"
+  },
+  "rajkot": {
+    "lat": 22.3,
+    "lon": 70.8,
+    "timezone": "Asia/Calcutta"
+  },
+  "ramanathapuram": {
+    "lat": 9.367826,
+    "lon": 78.8082036,
+    "timezone": "Asia/Calcutta"
+  },
+  "rameswaram": {
+    "lat": 9.2867184,
+    "lon": 79.3028783,
+    "timezone": "Asia/Calcutta"
+  },
+  "ramgundam": {
+    "lat": 18.8,
+    "lon": 79.45,
+    "timezone": "Asia/Calcutta"
+  },
+  "rampur": {
+    "lat": 28.82,
+    "lon": 79.03,
+    "timezone": "Asia/Calcutta"
+  },
+  "ranchi": {
+    "lat": 23.36,
+    "lon": 85.33,
+    "timezone": "Asia/Calcutta"
+  },
+  "ratlam": {
+    "lat": 23.32,
+    "lon": 75.07,
+    "timezone": "Asia/Calcutta"
+  },
+  "raurkela": {
+    "lat": 22.25,
+    "lon": 84.88,
+    "timezone": "Asia/Calcutta"
+  },
+  "rayachoti": {
+    "lat": 14.05,
+    "lon": 78.75,
+    "timezone": "Asia/Calcutta"
+  },
+  "repalle": {
+    "lat": 16.02,
+    "lon": 80.85,
+    "timezone": "Asia/Calcutta"
+  },
+  "rishra": {
+    "lat": 22.71,
+    "lon": 88.35,
+    "timezone": "Asia/Calcutta"
+  },
+  "rohtak": {
+    "lat": 28.9,
+    "lon": 76.57,
+    "timezone": "Asia/Calcutta"
+  },
+  "saharanpur": {
+    "lat": 29.96,
+    "lon": 77.55,
+    "timezone": "Asia/Calcutta"
+  },
+  "saharsa": {
+    "lat": 25.88,
+    "lon": 86.6,
+    "timezone": "Asia/Calcutta"
+  },
+  "salem": {
+    "lat": 11.6537012,
+    "lon": 77.9982106,
+    "timezone": "Asia/Calcutta"
+  },
+  "samalkot": {
+    "lat": 17.05,
+    "lon": 82.17,
+    "timezone": "Asia/Calcutta"
+  },
+  "sambalpur": {
+    "lat": 21.47,
+    "lon": 83.97,
+    "timezone": "Asia/Calcutta"
+  },
+  "sambhal": {
+    "lat": 28.58,
+    "lon": 78.55,
+    "timezone": "Asia/Calcutta"
+  },
+  "sangli": {
+    "lat": 16.87,
+    "lon": 74.57,
+    "timezone": "Asia/Calcutta"
+  },
+  "sankarankoil": {
+    "lat": 9.1778175,
+    "lon": 77.5263694,
+    "timezone": "Asia/Calcutta"
+  },
+  "sannai": {
+    "lat": 24.16,
+    "lon": 80.83,
+    "timezone": "Asia/Calcutta"
+  },
+  "sathyamangalam": {
+    "lat": 11.5034184,
+    "lon": 77.2269252,
+    "timezone": "Asia/Calcutta"
+  },
+  "sattenapalle": {
+    "lat": 16.4,
+    "lon": 80.15,
+    "timezone": "Asia/Calcutta"
+  },
+  "sattur": {
+    "lat": 9.3624941,
+    "lon": 77.8966934,
+    "timezone": "Asia/Calcutta"
+  },
+  "saugor": {
+    "lat": 23.85,
+    "lon": 78.75,
+    "timezone": "Asia/Calcutta"
+  },
+  "secunderabad": {
+    "lat": 17.45,
+    "lon": 78.5,
+    "timezone": "Asia/Calcutta"
+  },
+  "shahjanpur": {
+    "lat": 27.88,
+    "lon": 79.91,
+    "timezone": "Asia/Calcutta"
+  },
+  "shantipur": {
+    "lat": 23.25,
+    "lon": 88.43,
+    "timezone": "Asia/Calcutta"
+  },
+  "sengottai": {
+    "lat": 8.9731289,
+    "lon": 77.2281965,
+    "timezone": "Asia/Calcutta"
+  },
+  "shiliguri": {
+    "lat": 26.72,
+    "lon": 88.42,
+    "timezone": "Asia/Calcutta"
+  },
+  "shillong": {
+    "lat": 25.57,
+    "lon": 91.88,
+    "timezone": "Asia/Calcutta"
+  },
+  "shimla": {
+    "lat": 31.1,
+    "lon": 77.17,
+    "timezone": "Asia/Calcutta"
+  },
+  "shimoga": {
+    "lat": 13.93,
+    "lon": 75.56,
+    "timezone": "Asia/Calcutta"
+  },
+  "shrirampur": {
+    "lat": 22.75,
+    "lon": 88.34,
+    "timezone": "Asia/Calcutta"
+  },
+  "shrirangapattana": {
+    "lat": 12.42,
+    "lon": 76.69,
+    "timezone": "Asia/Calcutta"
+  },
+  "sihor": {
+    "lat": 21.7,
+    "lon": 71.97,
+    "timezone": "Asia/Calcutta"
+  },
+  "sikar": {
+    "lat": 27.61,
+    "lon": 75.14,
+    "timezone": "Asia/Calcutta"
+  },
+  "silchar": {
+    "lat": 24.79,
+    "lon": 92.79,
+    "timezone": "Asia/Calcutta"
+  },
+  "silvassa": {
+    "lat": 20.27,
+    "lon": 73.02,
+    "timezone": "Asia/Calcutta"
+  },
+  "sirsa": {
+    "lat": 29.49,
+    "lon": 75.03,
+    "timezone": "Asia/Calcutta"
+  },
+  "sirsilla": {
+    "lat": 18.38,
+    "lon": 78.83,
+    "timezone": "Asia/Calcutta"
+  },
+  "sitalpur": {
+    "lat": 27.63,
+    "lon": 80.75,
+    "timezone": "Asia/Calcutta"
+  },
+  "solan": {
+    "lat": 30.92,
+    "lon": 77.12,
+    "timezone": "Asia/Calcutta"
+  },
+  "solapur": {
+    "lat": 17.68,
+    "lon": 75.92,
+    "timezone": "Asia/Calcutta"
+  },
+  "sonipat": {
+    "lat": 29.0,
+    "lon": 77.01,
+    "timezone": "Asia/Calcutta"
+  },
+  "sopur": {
+    "lat": 34.3,
+    "lon": 74.47,
+    "timezone": "Asia/Calcutta"
+  },
+  "srinagar": {
+    "lat": 34.09,
+    "lon": 74.81,
+    "timezone": "Asia/Calcutta"
+  },
+  "srikakulam": {
+    "lat": 18.3031495,
+    "lon": 83.8904856,
+    "timezone": "Asia/Calcutta"
+  },
+  "srirangam": {
+    "lat": 10.8624192,
+    "lon": 78.6812184,
+    "timezone": "Asia/Calcutta"
+  },
+  "srikalahasti": {
+    "lat": 13.7506792,
+    "lon": 79.6976154,
+    "timezone": "Asia/Calcutta"
+  },
+  "surat": {
+    "lat": 21.17,
+    "lon": 72.83,
+    "timezone": "Asia/Calcutta"
+  },
+  "suriapet": {
+    "lat": 17.15,
+    "lon": 79.62,
+    "timezone": "Asia/Calcutta"
+  },
+  "tadepalle": {
+    "lat": 16.47,
+    "lon": 80.6,
+    "timezone": "Asia/Calcutta"
+  },
+  "tadepallegudem": {
+    "lat": 16.83,
+    "lon": 81.5,
+    "timezone": "Asia/Calcutta"
+  },
+  "tadpatri": {
+    "lat": 14.92,
+    "lon": 78.02,
+    "timezone": "Asia/Calcutta"
+  },
+  "tanuku": {
+    "lat": 16.75,
+    "lon": 81.7,
+    "timezone": "Asia/Calcutta"
+  },
+  "tenali": {
+    "lat": 16.24,
+    "lon": 80.64,
+    "timezone": "Asia/Calcutta"
+  },
+  "tenkasi": {
+    "lat": 8.9640571,
+    "lon": 77.2794588,
+    "timezone": "Asia/Calcutta"
+  },
+  "tezpur": {
+    "lat": 26.63,
+    "lon": 92.8,
+    "timezone": "Asia/Calcutta"
+  },
+  "thane": {
+    "lat": 19.18,
+    "lon": 72.96,
+    "timezone": "Asia/Calcutta"
+  },
+  "tharangambadi": {
+    "lat": 11.0281249,
+    "lon": 79.8428982,
+    "timezone": "Asia/Calcutta"
+  },
+  "tiruchendur": {
+    "lat": 8.4954858,
+    "lon": 78.1138502,
+    "timezone": "Asia/Calcutta"
+  },
+  "tiruvidaimaruthur": {
+    "lat": 10.976761,
+    "lon": 79.3990667,
+    "timezone": "Asia/Calcutta"
+  },
+  "thirukoilure": {
+    "lat": 11.96348,
+    "lon": 79.1902334,
+    "timezone": "Asia/Calcutta"
+  },
+  "tiruvallur": {
+    "lat": 13.123055,
+    "lon": 79.894443,
+    "timezone": "Asia/Calcutta"
+  },
+  "tiruvananthapuram": {
+    "lat": 8.5,
+    "lon": 76.9,
+    "timezone": "Asia/Calcutta"
+  },
+  "thondi": {
+    "lat": 9.753001,
+    "lon": 78.9544909,
+    "timezone": "Asia/Calcutta"
+  },
+  "thoothukudi": {
+    "lat": 8.78,
+    "lon": 78.13,
+    "timezone": "Asia/Calcutta"
+  },
+  "thuraiyur": {
+    "lat": 11.1420652,
+    "lon": 78.5800422,
+    "timezone": "Asia/Calcutta"
+  },
+  "tindivanam": {
+    "lat": 12.2330566,
+    "lon": 79.6389482,
+    "timezone": "Asia/Calcutta"
+  },
+  "tiruchengode": {
+    "lat": 11.3805998,
+    "lon": 77.8768419,
+    "timezone": "Asia/Calcutta"
+  },
+  "tiruchirappalli": {
+    "lat": 10.8158368,
+    "lon": 78.6189874,
+    "timezone": "Asia/Calcutta"
+  },
+  "tirumangalam": {
+    "lat": 9.8216141,
+    "lon": 77.9716298,
+    "timezone": "Asia/Calcutta"
+  },
+  "tirunelveli": {
+    "lat": 8.721555,
+    "lon": 77.6721372,
+    "timezone": "Asia/Calcutta"
+  },
+  "tiruppur": {
+    "lat": 11.1085742,
+    "lon": 77.2937723,
+    "timezone": "Asia/Calcutta"
+  },
+  "tiruvannamalai": {
+    "lat": 12.2408546,
+    "lon": 79.0342331,
+    "timezone": "Asia/Calcutta"
+  },
+  "titagarh": {
+    "lat": 22.74,
+    "lon": 88.37,
+    "timezone": "Asia/Calcutta"
+  },
+  "tonk": {
+    "lat": 26.15,
+    "lon": 75.79,
+    "timezone": "Asia/Calcutta"
+  },
+  "trichur": {
+    "lat": 10.52,
+    "lon": 76.21,
+    "timezone": "Asia/Calcutta"
+  },
+  "tumkur": {
+    "lat": 13.33,
+    "lon": 77.1,
+    "timezone": "Asia/Calcutta"
+  },
+  "tuni": {
+    "lat": 17.35,
+    "lon": 82.55,
+    "timezone": "Asia/Calcutta"
+  },
+  "tuticorin": {
+    "lat": 8.78,
+    "lon": 78.13,
+    "timezone": "Asia/Calcutta"
+  },
+  "udaipur": {
+    "lat": 24.58,
+    "lon": 73.68,
+    "timezone": "Asia/Calcutta"
+  },
+  "udayarpalayam": {
+    "lat": 11.1827486,
+    "lon": 79.2842638,
+    "timezone": "Asia/Calcutta"
+  },
+  "udhagamandalam": {
+    "lat": 11.41,
+    "lon": 76.69,
+    "timezone": "Asia/Calcutta"
+  },
+  "udhampur": {
+    "lat": 32.93,
+    "lon": 75.13,
+    "timezone": "Asia/Calcutta"
+  },
+  "udipi": {
+    "lat": 13.33,
+    "lon": 74.75,
+    "timezone": "Asia/Calcutta"
+  },
+  "udumalaipettai": {
+    "lat": 10.5807426,
+    "lon": 77.2212035,
+    "timezone": "Asia/Calcutta"
+  },
+  "ulhasnagar": {
+    "lat": 19.22,
+    "lon": 73.15,
+    "timezone": "Asia/Calcutta"
+  },
+  "uluberiya": {
+    "lat": 22.47,
+    "lon": 88.11,
+    "timezone": "Asia/Calcutta"
+  },
+  "umaria": {
+    "lat": 23.52,
+    "lon": 80.84,
+    "timezone": "Asia/Calcutta"
+  },
+  "uran": {
+    "lat": 18.89,
+    "lon": 72.95,
+    "timezone": "Asia/Calcutta"
+  },
+  "uthangarai": {
+    "lat": 12.2636666,
+    "lon": 78.5177537,
+    "timezone": "Asia/Calcutta"
+  },
+  "vadodara": {
+    "lat": 22.3,
+    "lon": 73.2,
+    "timezone": "Asia/Calcutta"
+  },
+  "valparai": {
+    "lat": 10.32,
+    "lon": 76.97,
+    "timezone": "Asia/Calcutta"
+  },
+  "vandavasi": {
+    "lat": 12.5052543,
+    "lon": 79.587364,
+    "timezone": "Asia/Calcutta"
+  },
+  "vaniyambadi": {
+    "lat": 12.6770065,
+    "lon": 78.5870207,
+    "timezone": "Asia/Calcutta"
+  },
+  "vellore": {
+    "lat": 12.8992994,
+    "lon": 79.0483018,
+    "timezone": "Asia/Calcutta"
+  },
+  "venkatagiri": {
+    "lat": 13.97,
+    "lon": 79.58,
+    "timezone": "Asia/Calcutta"
+  },
+  "tirumala": {
+    "lat": 13.6823898,
+    "lon": 79.3301295,
+    "timezone": "Asia/Calcutta"
+  },
+  "vadavalli": {
+    "lat": 11.032,
+    "lon": 76.898,
+    "timezone": "Asia/Calcutta"
+  },
+  "vidisha": {
+    "lat": 23.52,
+    "lon": 77.81,
+    "timezone": "Asia/Calcutta"
+  },
+  "vikarabad": {
+    "lat": 17.33,
+    "lon": 77.9,
+    "timezone": "Asia/Calcutta"
+  },
+  "viluppuram": {
+    "lat": 11.9336745,
+    "lon": 79.4644891,
+    "timezone": "Asia/Calcutta"
+  },
+  "vinukonda": {
+    "lat": 16.05,
+    "lon": 79.75,
+    "timezone": "Asia/Calcutta"
+  },
+  "virudhachalam": {
+    "lat": 11.5158673,
+    "lon": 79.3093798,
+    "timezone": "Asia/Calcutta"
+  },
+  "virudhunagar": {
+    "lat": 9.5734396,
+    "lon": 77.9231708,
+    "timezone": "Asia/Calcutta"
+  },
+  "vishakhapatnam": {
+    "lat": 17.73,
+    "lon": 83.32,
+    "timezone": "Asia/Calcutta"
+  },
+  "vizianagaram": {
+    "lat": 18.12,
+    "lon": 83.42,
+    "timezone": "Asia/Calcutta"
+  },
+  "vrindavan": {
+    "lat": 27.58,
+    "lon": 77.7,
+    "timezone": "Asia/Calcutta"
+  },
+  "wanparti": {
+    "lat": 16.36,
+    "lon": 78.06,
+    "timezone": "Asia/Calcutta"
+  },
+  "warangal": {
+    "lat": 17.98,
+    "lon": 79.6,
+    "timezone": "Asia/Calcutta"
+  },
+  "yavatmal": {
+    "lat": 20.4,
+    "lon": 78.13,
+    "timezone": "Asia/Calcutta"
+  },
+  "yellandu": {
+    "lat": 17.6,
+    "lon": 80.33,
+    "timezone": "Asia/Calcutta"
+  },
+  "yercaud": {
+    "lat": 11.7747917,
+    "lon": 78.1921956,
+    "timezone": "Asia/Calcutta"
+  },
+  "warrawee": {
+    "lat": -33.7292287,
+    "lon": 151.1249595,
+    "timezone": "Australia/NSW"
+  },
+  "sammamish": {
+    "lat": 47.6059848,
+    "lon": -122.0282373,
+    "timezone": "US/Pacific"
+  },
+  "seattle": {
+    "lat": 47.0571799,
+    "lon": -137.5684287,
+    "timezone": "US/Pacific"
+  },
+  "nashville": {
+    "lat": 36.1866405,
+    "lon": -86.7852455,
+    "timezone": "US/Central"
+  },
+  "mauritius": {
+    "lat": -20.2191771,
+    "lon": 57.2851023,
+    "timezone": "Indian/Mauritius"
+  },
+  "mckinney": {
+    "lat": 33.236594,
+    "lon": -96.684378,
+    "timezone": "US/Central"
+  },
+  "singapore": {
+    "lat": 1.3930236,
+    "lon": 103.7412441,
+    "timezone": "Asia/Singapore"
+  },
+  "sanfrancisco": {
+    "lat": 37.2323916,
+    "lon": -122.2673119,
+    "timezone": "America/Los_Angeles"
+  },
+  "sunnyvale": {
+    "lat": 37.3957342,
+    "lon": -122.023868,
+    "timezone": "America/Los_Angeles"
+  },
+  "losaltos": {
+    "lat": 37.3679247,
+    "lon": -122.1538679,
+    "timezone": "America/Los_Angeles"
+  },
+  "losgatos": {
+    "lat": 37.2333434,
+    "lon": -121.9515351,
+    "timezone": "America/Los_Angeles"
+  },
+  "sandiego": {
+    "lat": 33.0368876,
+    "lon": -117.065848,
+    "timezone": "America/Los_Angeles"
+  },
+  "northwood": {
+    "lat": 51.619,
+    "lon": -0.435,
+    "timezone": "Europe/London"
+  },
+  "budapest": {
+    "lat": 47.532,
+    "lon": 18.9927238,
+    "timezone": "Europe/Budapest"
+  },
+  "lisbon": {
+    "lat": 38.7440795,
+    "lon": -9.1597358,
+    "timezone": "Europe/Lisbon"
+  },
+  "toronto": {
+    "lat": 43.7182412,
+    "lon": -79.3780581,
+    "timezone": "America/Toronto"
+  },
+  "brampton": {
+    "lat": 43.6622912,
+    "lon": -79.7978048,
+    "timezone": "America/Toronto"
+  },
+  "amsterdam": {
+    "lat": 52.3546656,
+    "lon": 4.9039604,
+    "timezone": "Europe/Amsterdam"
+  },
+  "sydney": {
+    "lat": -33.8482439,
+    "lon": 150.9319747,
+    "timezone": "Australia/Sydney"
+  },
+  "rotterdam": {
+    "lat": 51.9278829,
+    "lon": 4.3347748,
+    "timezone": "Europe/Amsterdam"
+  },
+  "phoenix": {
+    "lat": 33.6038463,
+    "lon": -112.7494903,
+    "timezone": "America/Phoenix"
+  },
+  "oviedo": {
+    "lat": 28.669997,
+    "lon": -81.2051,
+    "timezone": "America/New_York"
+  },
+  "erin": {
+    "lat": 43.6992,
+    "lon": -80.1356,
+    "timezone": "America/Toronto"
+  }
+}
